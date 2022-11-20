@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-🤔I am Henry Yin.
+🤔 I am Henry Yin.
 
-🔭University of Rochester 2025er, Major in Computer Science and Mathematics.
+🔭 University of Rochester 2025er, Major in Computer Science and Mathematics.
 
-🌱I am interested on Computer System Architecture Design and Artificial Intelligence those two big directions. 
+🌱 I am interested on Computer System Architecture Design and Artificial Intelligence those two big directions. 
 
-⚡I am currently learning UNIX system low-level programming on manipulating threads and processes under UNIX related system (Linux). 
+⚡ I am currently learning UNIX system low-level programming on manipulating threads and processes under UNIX related system (Linux). 
 
-😄I love playing and programming, sometimes will go to the gym for workout and basketball email: hyin12@u.rochester.edu. 
+😄 I love playing and programming, sometimes will go to the gym for workout and basketball 
+📫 Email: hyin12@u.rochester.edu. 
 :)
 
 <!--
