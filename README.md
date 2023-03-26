@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🤔 I am Henry Yin.
+🤔 I am Ronin.
 
 🔭 University of Rochester 2025er, Major in Computer Science and Mathematics.
 
