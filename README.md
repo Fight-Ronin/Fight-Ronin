@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🤔 I am Ronin.
+🤔 I am Henry.
 
 🔭 University of Rochester 2025er, Major in Computer Science and Mathematics.
 
