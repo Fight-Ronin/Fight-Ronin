@@ -4,7 +4,7 @@
 
 🔭 University of Rochester 2025er, Major in Computer Science and Mathematics.
 
-🌱 I am interested in Artificial Intelligence especially Computer Vision! 
+🌱 I am interested in Artificial Intelligence especially Computer Vision related topics (e.g. Super-Resolution, Image Compression & Generation, etc.)! 
 
 😄 I love gaming and programming, sometimes will go to the gym for workout and basketball 
 
