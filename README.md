@@ -8,7 +8,7 @@
 
 😄 I love gaming and programming, sometimes will go to the gym for workout and basketball 
 
-📫 Email: hyin12@u.rochester.edu. 
+📫 Email: hanzhang_yin@brown.edu
 :)
 
 <!--
