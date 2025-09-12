@@ -3,6 +3,7 @@
 🤔 I am Henry.
 
 🔭 University of Rochester 2025er, Major in Computer Science and Mathematics.
+
 🔭 Brown University 2027er, Sc.M. Computer Science.
 
 🌱 I am interested in Artificial Intelligence especially Computer Vision related topics (e.g. Super-Resolution, Image Compression & Generation, etc.)! 
