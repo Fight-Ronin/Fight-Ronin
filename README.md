@@ -6,7 +6,7 @@
 
 🔭 Brown University 2027er, Sc.M. Computer Science.
 
-🌱 I am interested in Artificial Intelligence especially Computer Vision related topics (e.g. Super-Resolution, Image Compression & Generation, etc.)! 
+🌱 I am interested in Computer Vision, Computer Graphics, and Medical ML-related topics. 
 
 😄 I love gaming and programming, sometimes will go to the gym for workout and basketball 
 
